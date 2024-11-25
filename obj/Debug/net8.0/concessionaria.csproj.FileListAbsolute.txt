@@ -1,0 +1,14 @@
+/home/massa/Documents/trabalho/dev-files/concessionaria/bin/Debug/net8.0/concessionaria
+/home/massa/Documents/trabalho/dev-files/concessionaria/bin/Debug/net8.0/concessionaria.deps.json
+/home/massa/Documents/trabalho/dev-files/concessionaria/bin/Debug/net8.0/concessionaria.runtimeconfig.json
+/home/massa/Documents/trabalho/dev-files/concessionaria/bin/Debug/net8.0/concessionaria.dll
+/home/massa/Documents/trabalho/dev-files/concessionaria/bin/Debug/net8.0/concessionaria.pdb
+/home/massa/Documents/trabalho/dev-files/concessionaria/obj/Debug/net8.0/concessionaria.GeneratedMSBuildEditorConfig.editorconfig
+/home/massa/Documents/trabalho/dev-files/concessionaria/obj/Debug/net8.0/concessionaria.AssemblyInfoInputs.cache
+/home/massa/Documents/trabalho/dev-files/concessionaria/obj/Debug/net8.0/concessionaria.AssemblyInfo.cs
+/home/massa/Documents/trabalho/dev-files/concessionaria/obj/Debug/net8.0/concessionaria.csproj.CoreCompileInputs.cache
+/home/massa/Documents/trabalho/dev-files/concessionaria/obj/Debug/net8.0/concessionaria.dll
+/home/massa/Documents/trabalho/dev-files/concessionaria/obj/Debug/net8.0/refint/concessionaria.dll
+/home/massa/Documents/trabalho/dev-files/concessionaria/obj/Debug/net8.0/concessionaria.pdb
+/home/massa/Documents/trabalho/dev-files/concessionaria/obj/Debug/net8.0/concessionaria.genruntimeconfig.cache
+/home/massa/Documents/trabalho/dev-files/concessionaria/obj/Debug/net8.0/ref/concessionaria.dll
